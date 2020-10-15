@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> cub-prep
 # Code of Conduct
 
 ## Overview
@@ -94,3 +98,7 @@ Please email [cpp-conduct@nvidia.com] for any Code of Conduct related matters.
 
 [NVIDIA RAPIDS]: https://docs.rapids.ai/resources/conduct/
 [Contributor Covenant]: https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+<<<<<<< HEAD
+=======
+ libcudacxx-conduct@nvidia.com
+>>>>>>> cub-prep
